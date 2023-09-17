@@ -1,3 +1,5 @@
+Проект делал в Google Colab: https://colab.research.google.com/gist/PaVeLlLlLX/28d14ca4c5cdb6537c9bff460d8f0214/review_tones.ipynb
+
 # Review_tones
 Изучение подходов к решению задачи анализа тональности коротких текстов.
 Задача анализа тональности текста, в упрощенном виде, может быть сведена к задаче бинарной 
